@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-AI/Intro.md",
+                "file": "01-AI/Neural Networks and Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Neural Networks and Deep Learning"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "021ac6a4750ac4b9",
   "lastOpenFiles": [
-    "Pasted image 20260328224141.png",
+    "01-AI/Supervised Learning.md",
+    "01-AI/Neural Networks and Deep Learning.md",
     "01-AI/Intro.md",
+    "Pasted image 20260328224141.png",
     "01-AI",
     "Open Claw",
     "Claude Code",
